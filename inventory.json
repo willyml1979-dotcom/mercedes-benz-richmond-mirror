@@ -1,0 +1,261 @@
+{
+  "dealership": "Mercedes Benz Richmond",
+  "generated_at": "2026-09-25T11:06:46",
+  "vehicle_count": 24,
+  "currency": "CAD",
+  "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
+  "vehicles": [
+    {
+      "name": "C300 4MATIC Sedan2025 Mercedes-Benz",
+      "vin": "W1KAF4HB5SR261581",
+      "stock": "MB61216",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/8940c4e43841.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/c300/2025-mercedes-benz-c300-id38777499",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/c300/2025-mercedes-benz-c300-id38777499?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:08:27",
+      "odometer_km": 15110,
+      "condition": "used"
+    },
+    {
+      "name": "E450 4MATIC Sedan2026 Mercedes-Benz",
+      "vin": "W1KLF6BB9TA216401",
+      "stock": "2651737",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/5b1dbce26a9c.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/e450/2026-mercedes-benz-e450-id39102277",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/e450/2026-mercedes-benz-e450-id39102277?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:08:42",
+      "odometer_km": 9954,
+      "condition": "used"
+    },
+    {
+      "name": "EQB300 4MATIC SUV2025 Mercedes-Benz",
+      "vin": "W1N9M0KB7SN137185",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/f45f4b3fed77.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39089121",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/eqb300/2025-mercedes-benz-eqb300-id39089121?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:08:57",
+      "odometer_km": 8146,
+      "condition": "used"
+    },
+    {
+      "name": "EQE350 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "4JGGM1CB3RA049010",
+      "stock": "2665391",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/646889b2e41d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/eqe350/2024-mercedes-benz-eqe350-id39158062",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/eqe350/2024-mercedes-benz-eqe350-id39158062?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:09:12",
+      "odometer_km": 22253,
+      "condition": "used"
+    },
+    {
+      "name": "G63 AMG SUV2024 Mercedes-Benz",
+      "vin": "W1NYC7HJ2RX498652",
+      "stock": "2764725",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/356318145994.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/g63-amg/2024-mercedes-benz-g63-amg-id39229075?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:09:28",
+      "odometer_km": 18749,
+      "condition": "used"
+    },
+    {
+      "name": "GLA250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4N4HB4TJ792886",
+      "stock": "2664888",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e737a5afab84.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id39222677",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id39222677?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:09:43",
+      "odometer_km": 7172,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
+      "vin": "4JGFB5KB7PA954695",
+      "stock": "2652922",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/d3be479076fb.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39229078",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2023-mercedes-benz-gle450-id39229078?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:09:58",
+      "odometer_km": 36474,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "4JGFB5KB2RB057166",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/09db803557b9.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39026462?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:10:14",
+      "odometer_km": 55722,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "4JGFB5KBXRB136648",
+      "stock": "2665694",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/1e63b5caab6c.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:10:30",
+      "odometer_km": 18408,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "4JGFB5KB1RB106745",
+      "stock": "2652159",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/01f36141b606.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39237577",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39237577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:10:46",
+      "odometer_km": 16343,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450 4MATIC Coupe2025 Mercedes-Benz",
+      "vin": "4JGFD5KB8SB308644",
+      "stock": "2665159",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/2c0d7f9e1fcd.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39184683",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2025-mercedes-benz-gle450-id39184683?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:10:59",
+      "odometer_km": 8297,
+      "condition": "used"
+    },
+    {
+      "name": "GLE450e 4MATIC SUV2024 Mercedes-Benz",
+      "vin": "4JGFB4GB9RB094542",
+      "stock": "2652661",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/fbfd473b2dcd.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450e/2024-mercedes-benz-gle450e-id39131960",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450e/2024-mercedes-benz-gle450e-id39131960?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T10:11:14",
+      "odometer_km": 64222,
+      "condition": "used"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB0VF648655",
+      "stock": "2765883",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/a225beee992d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018349?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018349?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:03:46",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB2VF646678",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/9528c14da4e4.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018359?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018359?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:04:01",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB1VF652593",
+      "stock": "2766097",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/4a56737a9a04.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018362?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39018362?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:04:15",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB6VF647588",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/0116f109c620.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026472?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026472?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:04:30",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HBXVF647738",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/1cdb111aa3c5.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026473?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026473?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:04:45",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HBXVF648453",
+      "stock": "2765884",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/fd708165b103.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026475?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026475?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:05:00",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB3VF645371",
+      "stock": "2765726",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/b55467141dd2.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39056102?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39056102?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:05:16",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF649307",
+      "stock": "2765883",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/f8a65007a3c8.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39056103?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39056103?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:05:31",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB6VF654847",
+      "stock": "2765883",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/42ead815aba1.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108517?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108517?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:05:46",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB0VF654351",
+      "stock": "2765884",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/e7aa38105f83.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108519?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108519?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:06:01",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB2VF650343",
+      "stock": "2765882",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/a25cea0ac8ec.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108523?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108523?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:06:16",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 350e 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM5GB7VF654623",
+      "stock": "2765884",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/32bdc80c897c.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108524?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108524?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-25T11:06:32",
+      "condition": "new"
+    }
+  ]
+}
