@@ -1,10 +1,21 @@
 {
   "dealership": "Mercedes Benz Richmond",
-  "generated_at": "2026-09-25T11:06:46",
+  "generated_at": "2026-09-26T10:34:42",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
+    {
+      "name": "C300 4MATIC Sedan2023 Mercedes-Benz",
+      "vin": "W1KAF4HB8PR073001",
+      "stock": "2651448",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/c6b24066b1df.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/c300/2023-mercedes-benz-c300-id39102276",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/c300/2023-mercedes-benz-c300-id39102276?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:29:24",
+      "odometer_km": 19629,
+      "condition": "used"
+    },
     {
       "name": "C300 4MATIC Sedan2025 Mercedes-Benz",
       "vin": "W1KAF4HB5SR261581",
@@ -14,6 +25,17 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/c300/2025-mercedes-benz-c300-id38777499?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:08:27",
       "odometer_km": 15110,
+      "condition": "used"
+    },
+    {
+      "name": "C43 AMG 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1KWJ6EB8PG124769",
+      "stock": "MB62E00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0fab144266f9.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/c43-amg/2023-mercedes-benz-c43-amg-id39116799",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/c43-amg/2023-mercedes-benz-c43-amg-id39116799?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T10:29:41",
+      "odometer_km": 42459,
       "condition": "used"
     },
     {
@@ -61,17 +83,6 @@
       "condition": "used"
     },
     {
-      "name": "GLA250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB4TJ792886",
-      "stock": "2664888",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e737a5afab84.html",
-      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id39222677",
-      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2026-mercedes-benz-gla250-id39222677?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T10:09:43",
-      "odometer_km": 7172,
-      "condition": "used"
-    },
-    {
       "name": "GLE450 4MATIC SUV2023 Mercedes-Benz",
       "vin": "4JGFB5KB7PA954695",
       "stock": "2652922",
@@ -102,17 +113,6 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39102280?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T10:10:30",
       "odometer_km": 18408,
-      "condition": "used"
-    },
-    {
-      "name": "GLE450 4MATIC SUV2024 Mercedes-Benz",
-      "vin": "4JGFB5KB1RB106745",
-      "stock": "2652159",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/01f36141b606.html",
-      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39237577",
-      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2024-mercedes-benz-gle450-id39237577?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T10:10:46",
-      "odometer_km": 16343,
       "condition": "used"
     },
     {
