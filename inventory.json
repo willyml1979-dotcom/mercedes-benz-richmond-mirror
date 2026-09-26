@@ -1,6 +1,6 @@
 {
   "dealership": "Mercedes Benz Richmond",
-  "generated_at": "2026-09-26T10:34:42",
+  "generated_at": "2026-09-26T11:19:31",
   "vehicle_count": 24,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -188,16 +188,6 @@
       "condition": "new"
     },
     {
-      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
-      "vin": "W1NKM4HBXVF648453",
-      "stock": "2765884",
-      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/fd708165b103.html",
-      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026475?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
-      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39026475?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-09-25T11:05:00",
-      "condition": "new"
-    },
-    {
       "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
       "vin": "W1NKJ4HB3VF645371",
       "stock": "2765726",
@@ -225,6 +215,16 @@
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108517?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108517?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T11:05:46",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB6VF648393",
+      "stock": "2765726",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/55abc444b08c.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108518?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39108518?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-09-26T11:14:50",
       "condition": "new"
     },
     {
