@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Richmond",
-  "generated_at": "2026-10-19T19:10:53",
-  "vehicle_count": 2511,
+  "generated_at": "2026-10-20T13:55:19",
+  "vehicle_count": 2519,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -13176,7 +13176,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/60f14fa883e3.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39012916",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39012916?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:24:13",
+      "last_verified": "2026-10-20T13:51:14",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13188,7 +13188,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/6a0d86d16dc7.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39018351",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39018351?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:24:27",
+      "last_verified": "2026-10-20T13:51:28",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13200,7 +13200,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/f5bc8f6bbbd9.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39018355",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39018355?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:24:44",
+      "last_verified": "2026-10-20T13:51:43",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13368,7 +13368,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/b6b9f68501ea.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39246660",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/c-class/2026-mercedes-benz-c-class-id39246660?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:25:00",
+      "last_verified": "2026-10-20T13:51:58",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13542,7 +13542,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/4f4db289f6a2.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2026-mercedes-benz-cla-ev-id38532438",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2026-mercedes-benz-cla-ev-id38532438?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:25:17",
+      "last_verified": "2026-10-20T13:52:14",
       "price": 81960.0,
       "price_currency": "CAD",
       "condition": "new",
@@ -13570,7 +13570,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/dffcb3d2fe7d.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39150710",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39150710?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:25:34",
+      "last_verified": "2026-10-20T13:52:29",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13582,7 +13582,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/96ce14d47499.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39158197",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39158197?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:25:52",
+      "last_verified": "2026-10-20T13:52:45",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13594,31 +13594,35 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/ea002d7d217a.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39237614",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39237614?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:26:08",
+      "last_verified": "2026-10-20T13:53:01",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
     },
     {
-      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
-      "vin": "W1KFJ4EB0VJ064667",
-      "stock": "27B4667",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB6VF654847",
+      "stock": "2765883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/1a07612a2eb0.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39246664",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39246664?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:26:24",
+      "last_verified": "2026-10-20T13:53:20",
+      "price": 77260.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
     },
     {
-      "name": "CLA EV 350 4MATIC Sedan with EQ Tech2027 Mercedes-Benz",
-      "vin": "W1KFJ4EBXVJ067866",
-      "stock": "27B7866",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB6VF654847",
+      "stock": "2765883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/1602722d3a47.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39290081",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla-ev/2027-mercedes-benz-cla-ev-id39290081?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:26:40",
+      "last_verified": "2026-10-20T13:53:41",
+      "price": 77260.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13630,21 +13634,22 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/fed4406501a1.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id37277770",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id37277770?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:26:58",
+      "last_verified": "2026-10-20T13:53:56",
       "odometer_km": 8000,
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
     },
     {
-      "name": "CLA 250 4MATIC Coupe2025 Mercedes-Benz",
-      "vin": "W1K5J4HB1SN548150",
-      "stock": "2547825",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB6VF654847",
+      "stock": "2765883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/28cd6946f562.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id37293431",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2025-mercedes-benz-cla-id37293431?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:27:15",
-      "odometer_km": 7800,
+      "last_verified": "2026-10-20T13:54:15",
+      "price": 77260.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13694,7 +13699,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/bde694def770.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37531975",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37531975?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:27:30",
+      "last_verified": "2026-10-20T13:54:30",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13737,13 +13742,15 @@
       "province": "BC"
     },
     {
-      "name": "CLA 250 4MATIC Coupe2026 Mercedes-Benz",
-      "vin": "W1K5J4HB8TN596231",
-      "stock": "2651688",
+      "name": "New Vehicles",
+      "vin": "W1NKM4HB6VF654847",
+      "stock": "2765883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/bf8bb0691052.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37564542",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37564542?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:27:47",
+      "last_verified": "2026-10-20T13:54:48",
+      "price": 77260.0,
+      "price_currency": "CAD",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -13767,7 +13774,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/44db7d273a22.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37618917",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cla/2026-mercedes-benz-cla-id37618917?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T17:28:01",
+      "last_verified": "2026-10-20T13:55:05",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -14634,6 +14641,18 @@
       "province": "BC"
     },
     {
+      "name": "CLE AMG 53 4MATIC+ Coupe2027 Mercedes-Benz",
+      "vin": "W1KMJ6CBXVF137908",
+      "stock": "2765833",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/07b41aabee8d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39229051?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/cle/2027-mercedes-benz-cle-id39229051?paymentOptionTerm=48&paymentOptionKmPerYearPlan=12000&utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:49:08",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "CLE Cabriolet AMG 53 4MATIC2027 Mercedes-Benz",
       "vin": "W1KMK6CB6VF137322",
       "stock": "2765820",
@@ -15385,6 +15404,18 @@
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/eqs/2026-mercedes-benz-eqs-id38656883",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/eqs/2026-mercedes-benz-eqs-id38656883?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T17:41:59",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "G-Class 580e SUV2026 Mercedes-Benz",
+      "vin": "W1NWM0ABXTX091443",
+      "stock": "6T1443",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/a19d00779e52.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/g-class/2026-mercedes-benz-g-class-id38706691",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/g-class/2026-mercedes-benz-g-class-id38706691?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:49:25",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -17885,6 +17916,19 @@
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glb/2026-mercedes-benz-glb-id37538994",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glb/2026-mercedes-benz-glb-id37538994?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T16:21:48",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLB 250 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1N4M4HB0TW438126",
+      "stock": "2650585",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/78d642966a7e.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glb/2026-mercedes-benz-glb-id37634836",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glb/2026-mercedes-benz-glb-id37634836?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:49:42",
+      "odometer_km": 5500,
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -22129,6 +22173,18 @@
       "province": "BC"
     },
     {
+      "name": "GLC 300 4MATIC Coupe2026 Mercedes-Benz",
+      "vin": "W1NKJ4HB6TF530678",
+      "stock": "6T0678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/ec38b7cbf165.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39380624",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2026-mercedes-benz-glc-id39380624?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:49:58",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB8VF649035",
       "stock": "2766162",
@@ -22716,6 +22772,18 @@
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109219",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109219?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T18:28:02",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF654913",
+      "stock": "2765881",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/3ced9abe28ad.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109220",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/glc/2027-mercedes-benz-glc-id39109220?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:50:15",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
@@ -27945,6 +28013,18 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase High Roof AWD2025 Mercedes-Benz",
+      "vin": "W1Y4NBVY0SP766605",
+      "stock": "25V6605",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/6b75019e4b6b.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2025-mercedes-benz-sprinter-2500-id34955534",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2025-mercedes-benz-sprinter-2500-id34955534?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:50:29",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KBHY0TP868394",
       "stock": "2650474",
@@ -29943,6 +30023,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 144 Wheelbase High Roof RWD2026 Mercedes-Benz",
+      "vin": "W1Y4KBHY8TP863217",
+      "stock": "2650489",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/5528f7479eba.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38613199",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id38613199?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:50:44",
+      "odometer_km": 6442,
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter 2500 170 Wheelbase High Roof RWD2026 Mercedes-Benz",
       "vin": "W1Y4KCHY5TP924903",
       "stock": "26S4903",
@@ -31475,6 +31568,18 @@
       "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39297667",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39297667?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T18:40:24",
+      "condition": "new",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Sprinter 2500 170 Wheelbase High Roof AWD2026 Mercedes-Benz",
+      "vin": "W1Y4NCVY3TP958043",
+      "stock": "2666156",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/9603963efc54.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39387639",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/new-inventory/mercedes-benz/sprinter-2500/2026-mercedes-benz-sprinter-2500-id39387639?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-20T13:50:59",
       "condition": "new",
       "city": "Richmond",
       "province": "BC"
