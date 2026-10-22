@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Richmond",
-  "generated_at": "2026-10-20T13:55:19",
-  "vehicle_count": 2519,
+  "generated_at": "2026-10-21T20:09:03",
+  "vehicle_count": 2587,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
   "vehicles": [
@@ -148,6 +148,21 @@
       "province": "BC"
     },
     {
+      "name": "MDX Elite SH-AWD2013 Acura",
+      "vin": "2HNYD2H86DH000321",
+      "stock": "A217005",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/dd97ece5b1e2.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39392967",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/mdx/2013-acura-mdx-id39392967?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:47:10",
+      "price": 13880.0,
+      "price_currency": "CAD",
+      "odometer_km": 164865,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "MDX Nav Pkg2016 Acura",
       "vin": "5FRYD4H43GB504073",
       "stock": "G26107B",
@@ -226,6 +241,19 @@
       "province": "BC"
     },
     {
+      "name": "MDX Type S2023 Acura",
+      "vin": "5J8YD8H86PL800070",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/2f184d4cd2e8.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39387510",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/mdx/2023-acura-mdx-id39387510?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:47:24",
+      "odometer_km": 45750,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "MDX Platinum Elite SH-AWD2024 Acura",
       "vin": "5J8YE1H83RL801975",
       "stock": "A113013",
@@ -234,6 +262,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39375248?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T16:26:15",
       "odometer_km": 44290,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "MDX A-Spec SH-AWD2024 Acura",
+      "vin": "5J8YE1H08RL803120",
+      "stock": "A260109",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/1a843676a90c.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39387394",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/mdx/2024-acura-mdx-id39387394?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:47:39",
+      "odometer_km": 61881,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -305,6 +346,34 @@
       "province": "BC"
     },
     {
+      "name": "RDX Tech at2014 Acura",
+      "vin": "5J8TB4H54EL801603",
+      "stock": "H261243",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/58d5f7942c53.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/rdx/2014-acura-rdx-id39387342",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/rdx/2014-acura-rdx-id39387342?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:48:16",
+      "price": 12995.0,
+      "price_currency": "CAD",
+      "odometer_km": 226334,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "RDX Elite at2017 Acura",
+      "vin": "5J8TB4H79HL801375",
+      "stock": "A260031",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ea44e3f7e27b.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/rdx/2017-acura-rdx-id39387514",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/rdx/2017-acura-rdx-id39387514?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:48:31",
+      "odometer_km": 112206,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "RDX Platinum Elite SH-AWD2019 Acura",
       "vin": "5J8TC2H73KL801915",
       "stock": "A260188",
@@ -339,6 +408,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39375246?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T16:26:43",
       "odometer_km": 77500,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "RDX SH-AWD A-Spec at2021 Acura",
+      "vin": "5J8TC2H61ML807996",
+      "stock": "A316059",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/289882ff8d30.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39393064",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/acura/rdx/2021-acura-rdx-id39393064?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:48:47",
+      "odometer_km": 76306,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -777,6 +859,19 @@
       "province": "BC"
     },
     {
+      "name": "RS 6 Avant 4.0T quattro 8sp S-tronic2023 Audi",
+      "vin": "WUA1CBF29PN907457",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/95d0e204072d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/audi/rs-6-avant/2023-audi-rs-6-avant-id39222669",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/audi/rs-6-avant/2023-audi-rs-6-avant-id39222669?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:49:05",
+      "odometer_km": 53260,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "RS 6 Avant performance 4.0 TFSI quattro2024 Audi",
       "vin": "WUA1DBF20RN904978",
       "stock": "MB72A00",
@@ -907,6 +1002,19 @@
       "province": "BC"
     },
     {
+      "name": "SQ5 3.0T Technik quattro 8sp Tiptronic2022 Audi",
+      "vin": "WA134AFY4N2037336",
+      "stock": "H32E003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/03d4be699150.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/audi/sq5/2022-audi-sq5-id39387427",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/audi/sq5/2022-audi-sq5-id39387427?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:49:20",
+      "odometer_km": 45952,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "SQ6 e-tron quattro Technik2025 Audi",
       "vin": "WA135BGF3SA029701",
       "stock": "27B4667",
@@ -1019,6 +1127,21 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/bmw/640i/2019-bmw-640i-id38643123?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T07:51:39",
       "odometer_km": 89000,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "650i Cabriolet2012 BMW",
+      "vin": "WBALZ3C55CDL71919",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0681ff9bd79a.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/bmw/650i/2012-bmw-650i-id39387627",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/bmw/650i/2012-bmw-650i-id39387627?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:49:35",
+      "price": 19999.0,
+      "price_currency": "CAD",
+      "odometer_km": 118621,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -1385,6 +1508,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/bmw/x5/2025-bmw-x5-id38827156?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T19:08:03",
       "odometer_km": 50805,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "X6 xDrive35i2018 BMW",
+      "vin": "5UXKU2C56J0X51264",
+      "stock": "G26123",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0810e4c1d05d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/bmw/x6/2018-bmw-x6-id39393321",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/bmw/x6/2018-bmw-x6-id39393321?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:49:50",
+      "odometer_km": 159116,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -1764,8 +1900,34 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/332525606fdb.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860903",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id38860903?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:25:03",
+      "last_verified": "2026-10-21T20:05:04",
       "odometer_km": 22947,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500 Crew Cab Short Box 4x4 LT2025 Chevrolet",
+      "vin": "1GCPKDEK8SZ214033",
+      "stock": "A22A004",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/b7262528e81d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id39392964",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id39392964?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:50:06",
+      "odometer_km": 18533,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Silverado 1500 Crew Cab Short Box 4x4 ZR22025 Chevrolet",
+      "vin": "3GCUKHE85SG192605",
+      "stock": "A22A004",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/4a7961f6c30b.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id39392965",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/silverado-1500/2025-chevrolet-silverado-1500-id39392965?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:50:19",
+      "odometer_km": 55240,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -1784,13 +1946,26 @@
       "province": "BC"
     },
     {
+      "name": "Tahoe 4x4 Premier2023 Chevrolet",
+      "vin": "1GNSKSKD9PR528339",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/2272819c04ad.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/tahoe/2023-chevrolet-tahoe-id39387391",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/tahoe/2023-chevrolet-tahoe-id39387391?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:50:34",
+      "odometer_km": 94712,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Trailblazer FWD LT2024 Chevrolet",
       "vin": "KL79MPSL6RB046264",
       "stock": "H32A035",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/3c5acbdc5ec7.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/trailblazer/2024-chevrolet-trailblazer-id39116718",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chevrolet/trailblazer/2024-chevrolet-trailblazer-id39116718?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:25:19",
+      "last_verified": "2026-10-21T20:05:19",
       "odometer_km": 72907,
       "condition": "used",
       "city": "Richmond",
@@ -1829,8 +2004,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/3ca98ebd9b21.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chrysler/pacifica/2025-chrysler-pacifica-id39061206",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/chrysler/pacifica/2025-chrysler-pacifica-id39061206?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:25:34",
-      "odometer_km": 35620,
+      "last_verified": "2026-10-21T20:05:37",
+      "odometer_km": 35631,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -1842,8 +2017,21 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/84305ec99c26.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/dodge/challenger/2016-dodge-challenger-id38974237",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/dodge/challenger/2016-dodge-challenger-id38974237?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:25:48",
+      "last_verified": "2026-10-21T20:05:52",
       "odometer_km": 126560,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Charger GT AWD2018 Dodge",
+      "vin": "2C3CDXJG6JH225756",
+      "stock": "N226102",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/5d3d53f8fdbf.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/dodge/charger/2018-dodge-charger-id39374516",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/dodge/charger/2018-dodge-charger-id39374516?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:50:50",
+      "odometer_km": 92314,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -1868,7 +2056,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/04569dc724cd.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/dodge/durango/2024-dodge-durango-id39237426",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/dodge/durango/2024-dodge-durango-id39237426?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:26:02",
+      "last_verified": "2026-10-21T20:06:07",
       "odometer_km": 12239,
       "condition": "used",
       "city": "Richmond",
@@ -1946,7 +2134,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/86ae52814239.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id38713400",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id38713400?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:26:18",
+      "last_verified": "2026-10-21T20:06:22",
       "odometer_km": 60097,
       "condition": "used",
       "city": "Richmond",
@@ -1959,7 +2147,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e8956ec2632d.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042813",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042813?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:26:32",
+      "last_verified": "2026-10-21T20:06:39",
       "odometer_km": 7998,
       "condition": "used",
       "city": "Richmond",
@@ -1972,7 +2160,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/58036a049381.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042817",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2024-ford-bronco-id39042817?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:26:46",
+      "last_verified": "2026-10-21T20:06:57",
       "odometer_km": 14989,
       "condition": "used",
       "city": "Richmond",
@@ -1985,7 +2173,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/63369968e9da.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2025-ford-bronco-id38974242",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/bronco/2025-ford-bronco-id38974242?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:27:01",
+      "last_verified": "2026-10-21T20:07:12",
       "odometer_km": 16778,
       "condition": "used",
       "city": "Richmond",
@@ -2052,7 +2240,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ba80cf453d7a.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/escape/2025-ford-escape-id38713791",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/escape/2025-ford-escape-id38713791?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:27:17",
+      "last_verified": "2026-10-21T20:07:27",
       "odometer_km": 19600,
       "condition": "used",
       "city": "Richmond",
@@ -2078,8 +2266,8 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/a01c66f01465.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id38508801",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id38508801?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:27:34",
-      "odometer_km": 18243,
+      "last_verified": "2026-10-21T20:07:43",
+      "odometer_km": 19716,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -2091,8 +2279,21 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/d1b0d79ea1b4.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id39026364",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/expedition/2025-ford-expedition-id39026364?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:27:48",
+      "last_verified": "2026-10-21T20:07:59",
       "odometer_km": 18745,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Explorer Sport2016 Ford",
+      "vin": "1FM5K8GT2GGA73236",
+      "stock": "H213005",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/7c450f6b67b8.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/explorer/2016-ford-explorer-id39387341",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/explorer/2016-ford-explorer-id39387341?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:51:06",
+      "odometer_km": 179975,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -2117,7 +2318,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/9b81f5c79a58.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/explorer/2025-ford-explorer-id39088963",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/explorer/2025-ford-explorer-id39088963?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:28:05",
+      "last_verified": "2026-10-21T20:08:16",
       "odometer_km": 13118,
       "condition": "used",
       "city": "Richmond",
@@ -2169,7 +2370,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/850ca2767959.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38605616",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38605616?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:28:21",
+      "last_verified": "2026-10-21T20:08:32",
       "odometer_km": 15000,
       "condition": "used",
       "city": "Richmond",
@@ -2182,7 +2383,7 @@
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/c2916878eee1.html",
       "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454",
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/f-150/2025-ford-f-150-id38853454?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
-      "last_verified": "2026-10-09T13:28:38",
+      "last_verified": "2026-10-21T20:08:49",
       "odometer_km": 26965,
       "condition": "used",
       "city": "Richmond",
@@ -2275,6 +2476,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/f150/2021-ford-f150-id39199915?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:38:54",
       "odometer_km": 80920,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "F150 4x4 - Regular Cab XL - 122 WB2022 Ford",
+      "vin": "1FTFW1E84NFB31367",
+      "stock": "H316037",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/97f5f39bf4db.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/f150/2022-ford-f150-id39375146",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/ford/f150/2022-ford-f150-id39375146?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:51:21",
+      "odometer_km": 83326,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -2661,6 +2875,19 @@
       "province": "BC"
     },
     {
+      "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali2024 GMC",
+      "vin": "3GTUUGEL2RG268526",
+      "stock": "H216008",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/d712bca41dbf.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39387343",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/gmc/sierra-1500/2024-gmc-sierra-1500-id39387343?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:51:36",
+      "odometer_km": 65640,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Sierra 1500 Crew Cab Short Box 4-Wheel Drive Denali Ultimate2026 GMC",
       "vin": "1GTUUHE89TZ106532",
       "stock": "H32C000",
@@ -2736,6 +2963,19 @@
       "price": 19499.0,
       "price_currency": "CAD",
       "odometer_km": 88118,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Accord Sedan 2.0 Sport 10AT2021 Honda",
+      "vin": "1HGCV2F38MA800848",
+      "stock": "H313037",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/4e7dbe354174.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/accord/2021-honda-accord-id39392974",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/accord/2021-honda-accord-id39392974?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:51:50",
+      "odometer_km": 97960,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -2821,6 +3061,19 @@
       "province": "BC"
     },
     {
+      "name": "Civic Sedan LX CVT2017 Honda",
+      "vin": "2HGFC2F54HH014864",
+      "stock": "H313039",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/28c5b476f00e.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/civic/2017-honda-civic-id39274760",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/civic/2017-honda-civic-id39274760?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:52:06",
+      "odometer_km": 157800,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Civic Sedan Touring CVT2019 Honda",
       "vin": "2HGFC1F9XKH106002",
       "stock": "H313039",
@@ -2855,6 +3108,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/civic/2020-honda-civic-id39354128?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:46:36",
       "odometer_km": 75942,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Civic Type R 6MT2020 Honda",
+      "vin": "SHHFK8G34LU300129",
+      "stock": "A215011",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/b0b03954ea82.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/civic/2020-honda-civic-id39387389",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/civic/2020-honda-civic-id39387389?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:52:21",
+      "odometer_km": 12694,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -3209,6 +3475,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39132072?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T13:50:03",
       "odometer_km": 77321,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "CR-V LX AWD CVT2019 Honda",
+      "vin": "2HKRW2H29KH121476",
+      "stock": "27H021A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/4d9a766884a2.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39387425",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/cr-v/2019-honda-cr-v-id39387425?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:52:35",
+      "odometer_km": 105701,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -3697,6 +3976,21 @@
       "province": "BC"
     },
     {
+      "name": "Ridgeline EX-L NAVI2009 Honda",
+      "vin": "2HJYK16509H000218",
+      "stock": "H127211",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/598e32c45495.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/ridgeline/2009-honda-ridgeline-id39393435",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/honda/ridgeline/2009-honda-ridgeline-id39393435?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:52:50",
+      "price": 8999.0,
+      "price_currency": "CAD",
+      "odometer_km": 220068,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Ridgeline Touring2019 Honda",
       "vin": "5FPYK3F74KB506171",
       "stock": "A12C015",
@@ -3772,6 +4066,19 @@
       "price": 3700.0,
       "price_currency": "CAD",
       "odometer_km": 209668,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Elantra GT N Line Ultimate DCT2019 Hyundai",
+      "vin": "KMHH55LC6KU089331",
+      "stock": "A113013",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ac3e8ea35091.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/hyundai/elantra-gt/2019-hyundai-elantra-gt-id39387513",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/hyundai/elantra-gt/2019-hyundai-elantra-gt-id39387513?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:53:05",
+      "odometer_km": 81477,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -4049,6 +4356,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/infiniti/q50/2018-infiniti-q50-id39314797?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:01:17",
       "odometer_km": 61970,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Q50 PURE2020 Infiniti",
+      "vin": "JN1EV7AR3LM254461",
+      "stock": "H261266",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0ab3d8fb9311.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/infiniti/q50/2020-infiniti-q50-id39387344",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/infiniti/q50/2020-infiniti-q50-id39387344?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:53:22",
+      "odometer_km": 88479,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -4493,6 +4813,19 @@
       "province": "BC"
     },
     {
+      "name": "Forte (4) LX - at2016 Kia",
+      "vin": "KNAFX4A69G5513600",
+      "stock": "H116988",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/b8c8b62a906a.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/kia/forte/2016-kia-forte-id39387279",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/kia/forte/2016-kia-forte-id39387279?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:53:39",
+      "odometer_km": 104600,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Forte Sedan EX IVT2021 Kia",
       "vin": "3KPF54AD8ME332351",
       "stock": "H217003",
@@ -4635,6 +4968,19 @@
       "price": 4900.0,
       "price_currency": "CAD",
       "odometer_km": 176695,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Soul EV Base2017 Kia",
+      "vin": "KNDJX3AE2H7021785",
+      "stock": "26389A",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/1c3bff6145b5.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/kia/soul/2017-kia-soul-id39042767",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/kia/soul/2017-kia-soul-id39042767?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:53:56",
+      "odometer_km": 91008,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -4964,6 +5310,19 @@
       "province": "BC"
     },
     {
+      "name": "Discovery P360 R-Dynamic HSE (2)2023 Land Rover",
+      "vin": "SALRM4EU0P2468834",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/800d40637094.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/discovery/2023-land-rover-discovery-id39237562",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/discovery/2023-land-rover-discovery-id39237562?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:54:12",
+      "odometer_km": 83055,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "LR4 HSE2016 Land Rover",
       "vin": "SALAG2V64GA813346",
       "stock": "L25580A",
@@ -4998,6 +5357,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/new-range-rover/2024-land-rover-new-range-rover-id39230505?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T13:52:13",
       "odometer_km": 22396,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "New Range Rover P530 SE SWB2024 Land Rover",
+      "vin": "SALKP9E91RA220067",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/6c7fe2d0b02b.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/new-range-rover/2024-land-rover-new-range-rover-id39368060",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/new-range-rover/2024-land-rover-new-range-rover-id39368060?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:54:26",
+      "odometer_km": 18540,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -5279,6 +5651,19 @@
     },
     {
       "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
+      "vin": "SAL1L9FU5RA401456",
+      "stock": "LR26044",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/bef6da8a7216.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id38917314",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover-sport/2024-land-rover-range-rover-sport-id38917314?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:54:42",
+      "odometer_km": 22186,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Range Rover Sport P400 Dynamic SE2024 Land Rover",
       "vin": "SAL1L9FU1RA419064",
       "stock": "MB11814",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/d44955f963a7.html",
@@ -5472,6 +5857,19 @@
       "province": "BC"
     },
     {
+      "name": "Range Rover Velar D180 HSE R-Dynamic2018 Land Rover",
+      "vin": "SALYM2RN8JA726744",
+      "stock": "JL26B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/1760cbeea759.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover-velar/2018-land-rover-range-rover-velar-id39394597",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover-velar/2018-land-rover-range-rover-velar-id39394597?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:54:57",
+      "odometer_km": 119709,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Range Rover Velar P250 S2020 Land Rover",
       "vin": "SALYB2EX8LA295418",
       "stock": "JL23002",
@@ -5493,6 +5891,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover-velar/2022-land-rover-range-rover-velar-id39309971?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:15:16",
       "odometer_km": 52018,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Range Rover Velar P340 R-Dynamic S2023 Land Rover",
+      "vin": "SALYT2EU8PA361412",
+      "stock": "2664997",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/8cbc0bee5e3d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39124907",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover-velar/2023-land-rover-range-rover-velar-id39124907?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:55:12",
+      "odometer_km": 46170,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -5597,6 +6008,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover/2019-land-rover-range-rover-id39281906?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:16:01",
       "odometer_km": 70362,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Range Rover 3.0L Td6 Diesel HSE SWB2020 Land Rover",
+      "vin": "SALGS2RK6LA597025",
+      "stock": "JL26B00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/9cfe01d6ecbd.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover/2020-land-rover-range-rover-id38164759",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/land-rover/range-rover/2020-land-rover-range-rover-id38164759?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:55:28",
+      "odometer_km": 122583,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -5727,6 +6151,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/lexus/gx/2024-lexus-gx-id38746824?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T19:03:39",
       "odometer_km": 37646,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GX 5502025 Lexus",
+      "vin": "JTJVBCDX8S5050673",
+      "stock": "A116008",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/5e6f4fd6e75b.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/lexus/gx/2025-lexus-gx-id39393018",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/lexus/gx/2025-lexus-gx-id39393018?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:55:42",
+      "odometer_km": 9755,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -6102,6 +6539,21 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mazda/cx-70-phev/2025-mazda-cx-70-phev-id39089124?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:03:51",
       "odometer_km": 41955,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "CX-9 GT AWD2011 Mazda",
+      "vin": "JM3TB3DA1B0316853",
+      "stock": "2652274",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/7c59e5e1211e.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mazda/cx-9/2011-mazda-cx-9-id39383779",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mazda/cx-9/2011-mazda-cx-9-id39383779?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:55:57",
+      "price": 13995.0,
+      "price_currency": "CAD",
+      "odometer_km": 145000,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -6724,6 +7176,19 @@
       "province": "BC"
     },
     {
+      "name": "CLE53 AMG 4MATIC+ Coupe2025 Mercedes-Benz",
+      "vin": "W1KMJ6CB5SF064832",
+      "stock": "JL12B08",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/bde05d731567.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/cle53-amg/2025-mercedes-benz-cle53-amg-id39254505",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/cle53-amg/2025-mercedes-benz-cle53-amg-id39254505?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:56:14",
+      "odometer_km": 15820,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "CLK320 Coupe2004 Mercedes-Benz",
       "vin": "WDBTJ65J24F086069",
       "stock": "6T2779A",
@@ -7080,6 +7545,19 @@
     },
     {
       "name": "G550 SUV2021 Mercedes-Benz",
+      "vin": "W1NYC6BJ8MX423109",
+      "stock": "MB72F00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e1583ef9633d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/g550/2021-mercedes-benz-g550-id39274822?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:56:30",
+      "odometer_km": 19840,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "G550 SUV2021 Mercedes-Benz",
       "vin": "W1NYC6BJ5MX366867",
       "stock": "2652599",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/9f78ab45b0dd.html",
@@ -7185,6 +7663,19 @@
       "province": "BC"
     },
     {
+      "name": "G63 AMG SUV2022 Mercedes-Benz",
+      "vin": "W1NYC7HJ7NX443107",
+      "stock": "MB72A00",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/06d27fad9c08.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/g63-amg/2022-mercedes-benz-g63-amg-id38893633?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:56:45",
+      "odometer_km": 46150,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Pre-Owned Vehicles",
       "vin": "W1NKM4HB5TF427937",
       "stock": "2766322",
@@ -7268,6 +7759,19 @@
       "province": "BC"
     },
     {
+      "name": "GLA250 4MATIC SUV2018 Mercedes-Benz",
+      "vin": "WDCTG4GB9JJ428095",
+      "stock": "2652118",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ded4cab1d6cf.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2018-mercedes-benz-gla250-id39387629",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2018-mercedes-benz-gla250-id39387629?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:56:59",
+      "odometer_km": 35488,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "GLA250 4MATIC SUV2019 Mercedes-Benz",
       "vin": "WDCTG4GB3KJ622896",
       "stock": "5T0017B",
@@ -7289,6 +7793,32 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39332954?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:27:34",
       "odometer_km": 38900,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLA250 4MATIC SUV2019 Mercedes-Benz",
+      "vin": "WDCTG4GB3KU018800",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ef606c9af881.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39393080",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2019-mercedes-benz-gla250-id39393080?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:57:14",
+      "odometer_km": 100935,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLA250 4MATIC SUV2021 Mercedes-Benz",
+      "vin": "W1N4N4HB5MJ251637",
+      "stock": "2665540",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/9d172106a7eb.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2021-mercedes-benz-gla250-id39222623",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gla250/2021-mercedes-benz-gla250-id39222623?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:57:30",
+      "odometer_km": 97600,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -7419,6 +7949,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39267885?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T16:14:47",
       "odometer_km": 44777,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLB250 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N4M4HB2NW240621",
+      "stock": "26B5098",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/028c735d7a26.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39375317",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glb250/2022-mercedes-benz-glb250-id39375317?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:57:46",
+      "odometer_km": 56000,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -7737,6 +8280,19 @@
     },
     {
       "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB7NV378761",
+      "stock": "2652209",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/2dabc244188e.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375267",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375267?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:58:03",
+      "odometer_km": 40511,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
       "vin": "W1N0G8EB2NV368123",
       "stock": "MB61716",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/1e719cc4a143.html",
@@ -7744,6 +8300,32 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39375296?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-17T16:35:58",
       "odometer_km": 30927,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC Coupe2022 Mercedes-Benz",
+      "vin": "W1N0J8EB2NG024927",
+      "stock": "MB71603",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/d9b4853b0b71.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39387580",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39387580?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:58:20",
+      "odometer_km": 45200,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2022 Mercedes-Benz",
+      "vin": "W1N0G8EB7NV393955",
+      "stock": "2665504",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/820ae87621af.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39393067",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2022-mercedes-benz-glc300-id39393067?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:58:36",
+      "odometer_km": 45158,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -7926,6 +8508,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39281938?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:39:00",
       "odometer_km": 6267,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GLC300 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "W1NKM4HB5TF444625",
+      "stock": "MB71703",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/7581bb4ab89c.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39387571",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/glc300/2026-mercedes-benz-glc300-id39387571?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:58:52",
+      "odometer_km": 11350,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -8477,6 +9072,19 @@
       "province": "BC"
     },
     {
+      "name": "GLE450 4MATIC SUV2026 Mercedes-Benz",
+      "vin": "4JGFB5KB7TB578682",
+      "stock": "MB61716",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/c359126ed9ea.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39393065",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/gle450/2026-mercedes-benz-gle450-id39393065?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:59:07",
+      "odometer_km": 13448,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "GLE450e 4MATIC SUV2024 Mercedes-Benz",
       "vin": "4JGFB4GB9RB094542",
       "stock": "2652661",
@@ -8819,6 +9427,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
+      "vin": "W1Y4DBHY4MP372249",
+      "stock": "25V5050",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/4179bbc97045.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144-(2)/2021-mercedes-benz-sprinter-2500-cargo-144-(2)-id39393079",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/sprinter-2500-cargo-144-(2)/2021-mercedes-benz-sprinter-2500-cargo-144-(2)-id39393079?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:59:23",
+      "odometer_km": 119066,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel 1442024 Mercedes-Benz",
       "vin": "W1Y4KBHY4RP673603",
       "stock": "2665900",
@@ -8871,6 +9492,19 @@
       "province": "BC"
     },
     {
+      "name": "Sprinter V6 2500 Cargo 1442018 Mercedes-Benz",
+      "vin": "WD3BE7CDXJP632704",
+      "stock": "MB31705",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/06525574248e.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/sprinter-v6-2500-cargo-144/2018-mercedes-benz-sprinter-v6-2500-cargo-144-id39387664",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mercedes-benz/sprinter-v6-2500-cargo-144/2018-mercedes-benz-sprinter-v6-2500-cargo-144-id39387664?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:59:39",
+      "odometer_km": 148962,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Sprinter V6 2500 Cargo 1702021 Mercedes-Benz",
       "vin": "W1Y4ECHY7MP410270",
       "stock": "26V7119",
@@ -8905,6 +9539,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mitsubishi/mirage/2024-mitsubishi-mirage-id39245223?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T14:58:42",
       "odometer_km": 69681,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Outlander Plug-In Hybrid SEL S-AWC2025 Mitsubishi",
+      "vin": "JA4T5VA94SZ606998",
+      "stock": "A22E002",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0cc72dcb2c05.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mitsubishi/outlander-plug-in-hybrid/2025-mitsubishi-outlander-plug-in-hybrid-id39174597?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T19:59:56",
+      "odometer_km": 17608,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -8983,6 +9630,21 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/mitsubishi/outlander/2024-mitsubishi-outlander-id38931043?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T16:15:18",
       "odometer_km": 24355,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Altima Sedan 2.5 S CVT2015 Nissan",
+      "vin": "1N4AL3AP7FN374289",
+      "stock": "N216036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/27b2170dd0e0.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/altima/2015-nissan-altima-id39387630",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/altima/2015-nissan-altima-id39387630?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:00:10",
+      "price": 9888.0,
+      "price_currency": "CAD",
+      "odometer_km": 85326,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -9116,6 +9778,19 @@
       "province": "BC"
     },
     {
+      "name": "Kicks S2024 Nissan",
+      "vin": "3N1CP5BV2RL568154",
+      "stock": "N226203",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/4c22b29c5bc6.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/kicks/2024-nissan-kicks-id39221253?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:00:29",
+      "odometer_km": 43757,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Kicks SV FWD2025 Nissan",
       "vin": "3N8AP6CAXSL301747",
       "stock": "N213036",
@@ -9194,6 +9869,19 @@
       "province": "BC"
     },
     {
+      "name": "Murano SL AWD CVT2019 Nissan",
+      "vin": "5N1AZ2MS3KN116070",
+      "stock": "N216035",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/939706085ef3.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id39392031",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/murano/2019-nissan-murano-id39392031?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:00:45",
+      "odometer_km": 121146,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Murano Platinum2023 Nissan",
       "vin": "5N1AZ2DS0PC122721",
       "stock": "N226102",
@@ -9202,6 +9890,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39139532?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:30:56",
       "odometer_km": 56028,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Murano S2023 Nissan",
+      "vin": "5N1AZ2AS6PC140239",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/445c31806a25.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39392338",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/murano/2023-nissan-murano-id39392338?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:01:01",
+      "odometer_km": 49019,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -9227,6 +9928,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/murano/2025-nissan-murano-id39309144?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-10T16:15:52",
       "odometer_km": 12541,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Pathfinder Platinum V6 4x4 at2016 Nissan",
+      "vin": "5N1AR2MM3GC637830",
+      "stock": "N213036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/cb6c145022be.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/pathfinder/2016-nissan-pathfinder-id39387634",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/pathfinder/2016-nissan-pathfinder-id39387634?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:01:16",
+      "odometer_km": 93975,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -9584,6 +10298,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39386854?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T19:05:10",
       "odometer_km": 122944,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Sentra2019 Nissan",
+      "vin": "3N1AB7AP8KY263125",
+      "stock": "N216035",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/71b30b3505e1.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39392032",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/nissan/sentra/2019-nissan-sentra-id39392032?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:01:31",
+      "odometer_km": 73610,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -10204,6 +10931,19 @@
       "province": "BC"
     },
     {
+      "name": "Crosstrek Limited CVT2019 Subaru",
+      "vin": "JF2GTALC0KH232380",
+      "stock": "H22C003",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/491c745c8882.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/crosstrek/2019-subaru-crosstrek-id39392897",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/crosstrek/2019-subaru-crosstrek-id39392897?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:01:46",
+      "odometer_km": 82955,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Crosstrek Outdoor CVT2021 Subaru",
       "vin": "JF2GTHSC8MH240076",
       "stock": "S12C003",
@@ -10446,6 +11186,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39383784?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T07:47:57",
       "odometer_km": 33619,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Crosstrek Limited CVT2024 Subaru",
+      "vin": "JF2GUHNC1RH265188",
+      "stock": "N216036",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/3803135b06fd.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39387631",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/crosstrek/2024-subaru-crosstrek-id39387631?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:02:01",
+      "odometer_km": 62357,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -10864,6 +11617,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39380632?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-19T07:48:31",
       "odometer_km": 14949,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Forester Limited 2.5L CVT2025 Subaru",
+      "vin": "JF2SLDRC7SH445684",
+      "stock": "S260709",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0c2d505865c2.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39387644",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/subaru/forester/2025-subaru-forester-id39387644?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:02:18",
+      "odometer_km": 17750,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -11703,6 +12469,19 @@
       "province": "BC"
     },
     {
+      "name": "Model Y Performance2022 Tesla",
+      "vin": "7SAYGDEF7NF544221",
+      "stock": "MB71303",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/613bca80d01d.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/tesla/model-y/2022-tesla-model-y-id39387576?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:02:32",
+      "odometer_km": 73200,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Model Y Long Range2024 Tesla",
       "vin": "7SAYGDEEXRF989677",
       "stock": "N226104",
@@ -11835,6 +12614,19 @@
       "province": "BC"
     },
     {
+      "name": "Corolla 4-door Sedan LE CVTi-S2019 Toyota",
+      "vin": "2T1BURHE0KC155206",
+      "stock": "A12E002",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/9cc4d0ef1762.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/corolla/2019-toyota-corolla-id39393016",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/corolla/2019-toyota-corolla-id39393016?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:02:47",
+      "odometer_km": 90300,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Corolla 4-door Sedan LE CVT2020 Toyota",
       "vin": "5YFBPRBE5LP019655",
       "stock": "H126159",
@@ -11913,6 +12705,19 @@
       "province": "BC"
     },
     {
+      "name": "Corolla LE CVT2022 Toyota",
+      "vin": "5YFBPMBE2NP277640",
+      "stock": "6B4149B",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/a06993b0cfc8.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39387696",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/corolla/2022-toyota-corolla-id39387696?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:03:01",
+      "odometer_km": 48285,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Corolla LE CVT2026 Toyota",
       "vin": "5YFB4MDE6TP402822",
       "stock": "S131010",
@@ -11921,6 +12726,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/corolla/2026-toyota-corolla-id39171066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T15:30:20",
       "odometer_km": 10618,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GR Supra 3.02022 Toyota",
+      "vin": "WZ1DB0C08NW051355",
+      "stock": "2652440",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e3a074f61cdc.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39393066",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/gr-supra/2022-toyota-gr-supra-id39393066?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:03:16",
+      "odometer_km": 59989,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -12059,6 +12877,21 @@
       "province": "BC"
     },
     {
+      "name": "RAV4 AWD XLE2014 Toyota",
+      "vin": "2T3RFREV3EW127388",
+      "stock": "L26696B",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/b1135aca3a02.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/rav4/2014-toyota-rav4-id39387625?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:03:31",
+      "price": 14999.0,
+      "price_currency": "CAD",
+      "odometer_km": 211000,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "RAV4 FWD LE2019 Toyota",
       "vin": "2T3Z1RFV7KW017310",
       "stock": "A12C018",
@@ -12067,6 +12900,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/rav4/2019-toyota-rav4-id39314785?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:57:27",
       "odometer_km": 79893,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "RAV4 XLE AWD2021 Toyota",
+      "vin": "2T3R1RFVXMW140747",
+      "stock": "H313040",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/57a5a6a27e10.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/rav4/2021-toyota-rav4-id39387426",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/toyota/rav4/2021-toyota-rav4-id39387426?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:03:45",
+      "odometer_km": 119600,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -12357,6 +13203,32 @@
       "province": "BC"
     },
     {
+      "name": "Golf Sportwagen Alltrack 1.8T Highline 6sp 4MOTION2019 Volkswagen",
+      "vin": "3VWM17AU9KM522017",
+      "stock": "A12C016",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/36eed96233d9.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/golf-sportwagen-alltrack/2019-volkswagen-golf-sportwagen-alltrack-id39393017",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/golf-sportwagen-alltrack/2019-volkswagen-golf-sportwagen-alltrack-id39393017?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:04:00",
+      "odometer_km": 140731,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "GOLF Trendline2017 Volkswagen",
+      "vin": "3VW217AU7HM056054",
+      "stock": "S261056",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/b3b94cd5b6a0.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/golf/2017-volkswagen-golf-id39061198",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/golf/2017-volkswagen-golf-id39061198?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:04:17",
+      "odometer_km": 140672,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
       "name": "Golf 5-Dr 1.4T Comfortline  8sp at2021 Volkswagen",
       "vin": "3VWG57AU8MM003884",
       "stock": "S113021",
@@ -12365,6 +13237,19 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/golf/2021-volkswagen-golf-id38967665?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-15T14:59:53",
       "odometer_km": 122948,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "Jetta GLI 2.0T 7Sp at DSG w/Tip2022 Volkswagen",
+      "vin": "3VW2T7BU5NM029701",
+      "stock": "A113014",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/fc576adcabde.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/jetta-gli/2022-volkswagen-jetta-gli-id39387512",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/jetta-gli/2022-volkswagen-jetta-gli-id39387512?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:04:33",
+      "odometer_km": 58481,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
@@ -12443,6 +13328,21 @@
       "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volkswagen/tiguan/2026-volkswagen-tiguan-id39124314?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-10-09T15:37:43",
       "odometer_km": 18712,
+      "condition": "used",
+      "city": "Richmond",
+      "province": "BC"
+    },
+    {
+      "name": "C30 T5 A Intro2011 Volvo",
+      "vin": "YV1672MKXB2206280",
+      "stock": "S113022",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0e29d72c90e8.html",
+      "source_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volvo/c30/2011-volvo-c30-id39393071",
+      "dealer_url": "https://www.mercedes-benz-richmond.ca/en/used-inventory/volvo/c30/2011-volvo-c30-id39393071?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
+      "last_verified": "2026-10-21T20:04:49",
+      "price": 8995.0,
+      "price_currency": "CAD",
+      "odometer_km": 215000,
       "condition": "used",
       "city": "Richmond",
       "province": "BC"
