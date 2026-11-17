@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Richmond",
-  "generated_at": "2026-11-16T19:25:19",
-  "vehicle_count": 3281,
+  "generated_at": "2026-11-16T19:32:48",
+  "vehicle_count": 3286,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -9814,6 +9814,12 @@
       "condition": "new"
     },
     {
+      "name": "C-Class 300 4M Sedan2027 Mercedes-Benz",
+      "vin": "W1KAF4HB9VR374356",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/6675d1b6402d.html",
+      "condition": "new"
+    },
+    {
       "name": "CLA EV 350 4MATIC Sedan with EQ Tech2026 Mercedes-Benz",
       "vin": "W1KFJ4EBXTJ023959",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/d945ebb8e70b.html",
@@ -10728,10 +10734,12 @@
       "condition": "new"
     },
     {
-      "name": "E-Class 350 4MATIC Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF4HB9TA249006",
+      "name": "New Vehicles",
+      "vin": "4JGFF6FE4VB752709",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/f4be26ba9150.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 146660.0,
+      "price_currency": "CAD"
     },
     {
       "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
@@ -10782,10 +10790,12 @@
       "condition": "new"
     },
     {
-      "name": "E-Class AMG 53 HYBRID Sedan2026 Mercedes-Benz",
-      "vin": "W1KLF6DB1TA281403",
+      "name": "New Vehicles",
+      "vin": "4JGFF6FE4VB752709",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/744dac3f1346.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 146660.0,
+      "price_currency": "CAD"
     },
     {
       "name": "E-Class 450 4MATIC Sedan2026 Mercedes-Benz",
@@ -17646,6 +17656,24 @@
       "condition": "new"
     },
     {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FE8VB748240",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/b4e02122cbc2.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FE3VB743981",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/3427e93f4837.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLE 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFB6FB1VB748232",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/618fc4f5d7af.html",
+      "condition": "new"
+    },
+    {
       "name": "GLS 580 4MATIC SUV2025 Mercedes-Benz",
       "vin": "4JGFF8FE3SB332723",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/35e88a4564f8.html",
@@ -17865,6 +17893,12 @@
       "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
       "vin": "4JGFF6FE6VB748533",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/2e02877633ba.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLS 450 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "4JGFF6FE5VB748572",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/37594419af03.html",
       "condition": "new"
     },
     {
