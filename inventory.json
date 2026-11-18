@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Richmond",
-  "generated_at": "2026-11-17T20:17:25",
-  "vehicle_count": 3110,
+  "generated_at": "2026-11-18T06:05:58",
+  "vehicle_count": 3138,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -45,6 +45,12 @@
       "name": "Integra Type S MT2025 Acura",
       "vin": "19UDE5G95SA800201",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/47ffb229f7bd.html",
+      "condition": "used"
+    },
+    {
+      "name": "Integra Type S MT2025 Acura",
+      "vin": "19UDE5G96SA800160",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/fd0bd1bb4565.html",
       "condition": "used"
     },
     {
@@ -454,6 +460,12 @@
       "condition": "used"
     },
     {
+      "name": "RS Q8 TFSI quattro2024 Audi",
+      "vin": "WU1ARBF15RD013583",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/56fd9b6dac9b.html",
+      "condition": "used"
+    },
+    {
       "name": "RS Q8 performance 4.0 TFSI quattro2026 Audi",
       "vin": "WU1ARBF17TD001362",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e5f63b2830fb.html",
@@ -676,6 +688,24 @@
       "condition": "used"
     },
     {
+      "name": "M3 Competition2025 BMW",
+      "vin": "WBS33HJ06SFU76943",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/0be403e0e39a.html",
+      "condition": "used"
+    },
+    {
+      "name": "M4 Competition M xDrive2022 BMW",
+      "vin": "WBS43AZ05NCK98044",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e0ce8628ab8e.html",
+      "condition": "used"
+    },
+    {
+      "name": "M4 CS2025 BMW",
+      "vin": "WBS43HK09SCU56710",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/cf9ecfce15a2.html",
+      "condition": "used"
+    },
+    {
       "name": "M440i xDrive Cabriolet2023 BMW",
       "vin": "WBA63AT0XPCM35889",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/6039d8760afd.html",
@@ -809,6 +839,12 @@
       "name": "Z4 sDrive30i Roadster2022 BMW",
       "vin": "WBAHF3C06NWX76567",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/471d81d93f76.html",
+      "condition": "used"
+    },
+    {
+      "name": "CT4 AWD V-Series2020 Cadillac",
+      "vin": "1G6DH5RL8L0154564",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/85ec6c5a9f24.html",
       "condition": "used"
     },
     {
@@ -1072,6 +1108,12 @@
       "condition": "used"
     },
     {
+      "name": "Bronco Outer Banks 4 Door 4x42024 Ford",
+      "vin": "1FMEE8BP1RLA53491",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/6dc1951935bf.html",
+      "condition": "used"
+    },
+    {
       "name": "Edge Limited 4D Utility AWD2013 Ford",
       "vin": "2FMDK4KC3DBA54015",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/da65eef50502.html",
@@ -1143,6 +1185,12 @@
       "name": "F-150 Tremor 4WD SuperCrew 5.5' Box2026 Ford",
       "vin": "1FTFW4L83TFA35960",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/8624e167e78e.html",
+      "condition": "used"
+    },
+    {
+      "name": "F-150 LARIAT 4WD SuperCrew 6.5' Box2026 Ford",
+      "vin": "1FTFW5L87TKD28385",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e3bba3d651d0.html",
       "condition": "used"
     },
     {
@@ -1227,6 +1275,12 @@
       "name": "GV70 2.5T Advanced Plus2022 GENESIS",
       "vin": "KMUMADTB8NU074413",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/2668173f547f.html",
+      "condition": "used"
+    },
+    {
+      "name": "GV70 2.5T Advanced2025 GENESIS",
+      "vin": "KMUMADTB5SU193595",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/509b01437f14.html",
       "condition": "used"
     },
     {
@@ -1570,6 +1624,14 @@
       "vin": "2HKRS6H95TH222919",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/73e04a2024d8.html",
       "condition": "used"
+    },
+    {
+      "name": "CR-V EX-L AWD2014 Honda",
+      "vin": "2HKRM4H79EH122130",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/dd2d43d54fc5.html",
+      "condition": "used",
+      "price": 17880.0,
+      "price_currency": "CAD"
     },
     {
       "name": "CR-V LX AWD CVT2019 Honda",
@@ -1951,6 +2013,12 @@
       "condition": "used"
     },
     {
+      "name": "Santa Fe 1.6T Preferred Hybrid AWD 7-Pass2026 Hyundai",
+      "vin": "KM8P2DG13TU174586",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/c7dea8531f55.html",
+      "condition": "used"
+    },
+    {
       "name": "Sonata Hybrid Ultimate2022 Hyundai",
       "vin": "KMHL34JJXNA050792",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/829b04ba7240.html",
@@ -2227,6 +2295,12 @@
       "condition": "used"
     },
     {
+      "name": "Sportage SX Turbo2018 Kia",
+      "vin": "KNDPRCA64J7380901",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/25d62e7528b9.html",
+      "condition": "used"
+    },
+    {
       "name": "Telluride SX AWD2020 Kia",
       "vin": "5XYP5DHC8LG045742",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e590faa85695.html",
@@ -2272,6 +2346,12 @@
       "name": "Defender 130 P500 V82024 Land Rover",
       "vin": "SALEBFFE9R2255732",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/eb1b23472a0b.html",
+      "condition": "used"
+    },
+    {
+      "name": "Defender 110 P300 S2024 Land Rover",
+      "vin": "SALEJ7EX7R2345120",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/cdc59c8d1db9.html",
       "condition": "used"
     },
     {
@@ -2481,6 +2561,12 @@
       "condition": "used"
     },
     {
+      "name": "Range Rover Sport V8 Supercharged Autobiography Dynamic2018 Land Rover",
+      "vin": "SALWV2RE2JA807131",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/a1442fca5b12.html",
+      "condition": "used"
+    },
+    {
       "name": "Range Rover Sport V8 Supercharged HSE Dynamic2020 Land Rover",
       "vin": "SALWR2SE8LA890954",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/d77904e672f0.html",
@@ -2631,6 +2717,12 @@
       "condition": "used"
     },
     {
+      "name": "Range Rover Velar P380 HSE R-Dynamic2019 Land Rover",
+      "vin": "SALYM2EV0KA781390",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/7e7fc98b343d.html",
+      "condition": "used"
+    },
+    {
       "name": "Range Rover Velar P250 S2020 Land Rover",
       "vin": "SALYB2EX8LA295418",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/45bb155d073e.html",
@@ -2712,6 +2804,12 @@
       "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB (2)2020 Land Rover",
       "vin": "SALGS5SE4LA585140",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/78cfab7418db.html",
+      "condition": "used"
+    },
+    {
+      "name": "Range Rover 5.0L V8 Supercharged P525 Autobiography LWB2020 Land Rover",
+      "vin": "SALGV5SE0LA592156",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/7164207173da.html",
       "condition": "used"
     },
     {
@@ -3233,6 +3331,14 @@
       "vin": "WDD2J5KB7KA011274",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/92d910668f04.html",
       "condition": "used"
+    },
+    {
+      "name": "E300 4MATIC Sedan2014 Mercedes-Benz",
+      "vin": "WDDHF8BB0EB042345",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/643f1680309d.html",
+      "condition": "used",
+      "price": 15995.0,
+      "price_currency": "CAD"
     },
     {
       "name": "E350 4MATIC Sedan2020 Mercedes-Benz",
@@ -3849,6 +3955,12 @@
       "condition": "used"
     },
     {
+      "name": "GLC300 4MATIC Coupe2023 Mercedes-Benz",
+      "vin": "W1N0J8EB1PG129218",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/bb2541c338cd.html",
+      "condition": "used"
+    },
+    {
       "name": "GLC300 4MATIC SUV2024 Mercedes-Benz",
       "vin": "W1NKM4HB5RF180735",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/64bd7be3f5bb.html",
@@ -4361,6 +4473,12 @@
       "condition": "used"
     },
     {
+      "name": "Sprinter 2500 Cargo 144 (2)2021 Mercedes-Benz",
+      "vin": "W1Y4DBHY5MP378738",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/85d2e1463bf8.html",
+      "condition": "used"
+    },
+    {
       "name": "Sprinter Cargo Van 2500 Standard Roof I4 Diesel HO 1442024 Mercedes-Benz",
       "vin": "W1Y4NBHYXRP683883",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/84adede1808a.html",
@@ -4438,6 +4556,12 @@
       "name": "Outlander Plug-In Hybrid GT S-AWC2025 Mitsubishi",
       "vin": "JA4T5WA96SZ602585",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/5c6e4b2bd6b6.html",
+      "condition": "used"
+    },
+    {
+      "name": "Outlander Plug-In Hybrid SE S-AWC - PHEV - 7 Passenger No major accidents2025 Mitsubishi",
+      "vin": "JA4T5VA96SZ621678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/880b21b5ef5e.html",
       "condition": "used"
     },
     {
@@ -5035,6 +5159,12 @@
       "condition": "used"
     },
     {
+      "name": "RAM 1500 Classic Crew Cab 4x4 (DS) SLT (140.5 WB 5'7 Box) SWB2021 Ram",
+      "vin": "1C6RR7LG4MS569482",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/c74c118f9f49.html",
+      "condition": "used"
+    },
+    {
       "name": "RAM 1500 Classic Crew Cab 4x4 (DS) SLT (140.5 WB 5'7 Box) SWB2022 Ram",
       "vin": "1C6RR7LT5NS243589",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/4fdf342364ac.html",
@@ -5214,6 +5344,12 @@
       "name": "Crosstrek Onyx CVT2026 Subaru",
       "vin": "JF2GUHFC0T8233189",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/bd60fa15ead2.html",
+      "condition": "used"
+    },
+    {
+      "name": "Crosstrek Touring CVT2026 Subaru",
+      "vin": "JF2GUHDC4T8238849",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/43484e0a4b85.html",
       "condition": "used"
     },
     {
@@ -5520,6 +5656,12 @@
     },
     {
       "name": "Forester Touring 2.5L CVT2026 Subaru",
+      "vin": "JF2SLDDCXTH460902",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/86aae67dc7de.html",
+      "condition": "used"
+    },
+    {
+      "name": "Forester Touring 2.5L CVT2026 Subaru",
       "vin": "JF2SLDDC3TH467299",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/f804a1b2c1cc.html",
       "condition": "used"
@@ -5642,6 +5784,12 @@
       "name": "Outback 2.5L Convenience2025 Subaru",
       "vin": "4S4BTDAC6S3167346",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/12e7f398117f.html",
+      "condition": "used"
+    },
+    {
+      "name": "Outback 2.4L Wilderness Turbo2025 Subaru",
+      "vin": "4S4BTHTD753167501",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ac61db147baa.html",
       "condition": "used"
     },
     {
@@ -5801,6 +5949,12 @@
       "condition": "used"
     },
     {
+      "name": "4Runner2023 Toyota",
+      "vin": "JTENU5JR7P6090125",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/41e3c4ffcbb9.html",
+      "condition": "used"
+    },
+    {
       "name": "4Runner2025 Toyota",
       "vin": "JTEVA5BR7S5054778",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/28d91100e41c.html",
@@ -5884,6 +6038,12 @@
       "name": "Land Cruiser 19582025 Toyota",
       "vin": "JTEABFAJ4SK019095",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/6d074ace58dc.html",
+      "condition": "used"
+    },
+    {
+      "name": "Land Cruiser 19582025 Toyota",
+      "vin": "JTEABFAJ4SK025544",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/288db39141df.html",
       "condition": "used"
     },
     {
@@ -6015,6 +6175,12 @@
       "condition": "used"
     },
     {
+      "name": "Tundra Hybrid CrewMax Limited2024 Toyota",
+      "vin": "5TFWC5DB3RX063138",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/4e51ff22f3a9.html",
+      "condition": "used"
+    },
+    {
       "name": "Tundra Hybrid CrewMax Limited2025 Toyota",
       "vin": "5TFWC5DB0SX094465",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/e993615231ba.html",
@@ -6038,6 +6204,12 @@
       "name": "Atlas Cross Sport Execline 2.0 TSI 4MOTION2025 Volkswagen",
       "vin": "1V2FE2CA4SC213979",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/c2fcbea32f23.html",
+      "condition": "used"
+    },
+    {
+      "name": "Beetle Wolfsburg Edition Convertible 2.0T 6sp at w/Tip2019 Volkswagen",
+      "vin": "3VW5DAAT5KM502332",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/efba65ba47e3.html",
       "condition": "used"
     },
     {

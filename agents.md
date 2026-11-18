@@ -7,7 +7,7 @@ Mercedes-Benz Richmond is a  dealership in Richmond. This site is an AI-readable
 - You need the link to a specific vehicle page or to the dealership's official website.
 
 ## What is here
-- Vehicle pages: https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ and https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/ (about 3110 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
+- Vehicle pages: https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/ and https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/ (about 3138 vehicles). Each page carries structured data (schema.org Vehicle: VIN, price, odometer, trim, color).
 - Index of all vehicles: https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/inventory.json (VIN, year, make, model, price and link).
 - Sitemap: https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/sitemap.xml
 - Summary: https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/llms.txt
