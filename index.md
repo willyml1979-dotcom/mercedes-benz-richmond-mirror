@@ -1,6 +1,6 @@
 # Mercedes-Benz Richmond
 
- dealership in Richmond. AI-readable inventory mirror, about 3138 vehicles.
+ dealership in Richmond. AI-readable inventory mirror, about 3141 vehicles.
 
 - Official website: https://www.mercedes-benz-richmond.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/used/

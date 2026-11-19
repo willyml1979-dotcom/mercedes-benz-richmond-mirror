@@ -1,7 +1,7 @@
 {
   "dealership": "Mercedes Benz Richmond",
-  "generated_at": "2026-11-18T06:05:58",
-  "vehicle_count": 3138,
+  "generated_at": "2026-11-18T19:53:01",
+  "vehicle_count": 3141,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -9197,10 +9197,12 @@
       "condition": "new"
     },
     {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB7TJ849355",
+      "name": "New Vehicles",
+      "vin": "4JGFF6FE6VB752677",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/2b79eb56b760.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 147860.0,
+      "price_currency": "CAD"
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
@@ -9275,10 +9277,12 @@
       "condition": "new"
     },
     {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB9TJ869137",
+      "name": "New Vehicles",
+      "vin": "4JGFF6FE4VB752709",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/db82c4d9306d.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 146660.0,
+      "price_currency": "CAD"
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
@@ -9317,10 +9321,12 @@
       "condition": "new"
     },
     {
-      "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
-      "vin": "W1N4N4HB2TJ886605",
+      "name": "New Vehicles",
+      "vin": "4JGFF6FE6VB752677",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/f2e33221968a.html",
-      "condition": "new"
+      "condition": "new",
+      "price": 147860.0,
+      "price_currency": "CAD"
     },
     {
       "name": "GLA 250 4MATIC SUV2026 Mercedes-Benz",
@@ -13359,6 +13365,12 @@
       "condition": "new"
     },
     {
+      "name": "GLC 300 4MATIC Coupe2027 Mercedes-Benz",
+      "vin": "W1NKJ4HB9VF663678",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/76a1f777eb5f.html",
+      "condition": "new"
+    },
+    {
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HBXVF661879",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/7577bc2994c7.html",
@@ -13446,6 +13458,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB5VF660090",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/89fce6c4e912.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB5VF660090",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/b609bf4fc30b.html",
       "condition": "new"
     },
     {
@@ -14040,6 +14058,12 @@
       "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
       "vin": "W1NKM4HB4VF672988",
       "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/af94a25cb912.html",
+      "condition": "new"
+    },
+    {
+      "name": "GLC 300 4MATIC SUV2027 Mercedes-Benz",
+      "vin": "W1NKM4HB4VF672988",
+      "url": "https://willyml1979-dotcom.github.io/mercedes-benz-richmond-mirror/new/7848dc9e9215.html",
       "condition": "new"
     },
     {
